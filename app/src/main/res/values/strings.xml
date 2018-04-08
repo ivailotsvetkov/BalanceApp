@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BalanceApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="key">task list</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="box">box</string>
+    <string name="textview">TextView</string>
+    <string name="last_month_stats">Last month stats</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
